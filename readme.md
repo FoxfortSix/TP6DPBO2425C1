@@ -1,6 +1,6 @@
-# Tugas Praktikum 7 - Desain Pemrograman Berorientasi Objek (TP7DPBO2425C1)
+# Tugas Praktikum 6 - Desain Pemrograman Berorientasi Objek (TP6DPBO2425C1)
 
-Saya **Mochamamd Azka Basria** dengan NIM **2405170** mengerjakan Tugas Praktikum 7 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya **Mochamamd Azka Basria** dengan NIM **2405170** mengerjakan Tugas Praktikum 6 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 _Repository_ ini merupakan implementasi konsep OOP (_Object-Oriented Programming_) dalam bahasa **Java** menggunakan library **Java Swing**. Program ini mendemonstrasikan penggunaan konsep OOP seperti _inheritance_, _aggregation_, dan _composition_, serta implementasi _game loop_ (menggunakan `javax.swing.Timer`) dan _event handling_ (untuk input keyboard) dalam sebuah aplikasi game sederhana.
 
